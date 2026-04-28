@@ -115,7 +115,7 @@ Both tools generate the same types of output:
 
 ```
 ├── industrial_simulator.py   # Factory stock growth simulator
-├── portfolio_simulator.py    # Investment portfolio simulator
+├── portfolio financial_simulator.py    # Investment portfolio simulator
 └── README.md                 # This file
 ```
 
